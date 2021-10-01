@@ -1,3 +1,5 @@
+[gmail]: mailto:adi.pop.bv@gmail.com
+
 <h1 align="center">
   Hello there! 👋
 </h1>
@@ -13,6 +15,6 @@
 
 - 🔭 I’m currently working on: finishing my bachelor studies
 - 🌱 I’m currently learning: lots of interesting technologies
-- 📫 How to reach me: <img alt="adipopbv's email" width="20px" src="https://image.flaticon.com/icons/svg/732/732200.svg"/>
+- 📫 How to reach me: [<img alt="adipopbv's email" width="20px" src="https://image.flaticon.com/icons/svg/732/732200.svg"/>][gmail]
 - ⚡ Fun fact: I have a beer cap collection 🍺
 - 🎯 Targets for this year: contribute more to open-source
