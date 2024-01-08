@@ -9,11 +9,13 @@
   <img alt="adipopbv's Github Stats" src="https://github-readme-stats.vercel.app/api?username=adipopbv&show_icons=true&include_all_commits=true&border_color=444444&theme=dark"/>
   <br/>
   <br/>
-  Happy to see you landed on my GitHub page safely. Have a look around!
+  Happy to see you landed on my GitHub page safely!
+  <br/>
+  Have a look around, but keep in mind that I might not be as active as before since I've been kinda busy lately.
   <br/>
 </p>
 
-- 🔭 I’m currently working on: finishing my bachelor studies
+- 🔭 I’m currently working on: finishing my master's studies
 - 🌱 I’m currently learning: lots of interesting technologies
 - 📫 How to reach me: [<img alt="adipopbv's email" width="20px" src="https://image.flaticon.com/icons/svg/732/732200.svg"/>][gmail]
 - ⚡ Fun fact: I have a beer cap collection 🍺
