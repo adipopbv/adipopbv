@@ -15,7 +15,6 @@
   <br/>
 </p>
 
-- 🔭 I’m currently working on: finishing my master's studies
 - 🌱 I’m currently learning: lots of interesting technologies
 - 📫 How to reach me: [<img alt="adipopbv's email" width="20px" src="https://image.flaticon.com/icons/svg/732/732200.svg"/>][gmail]
 - ⚡ Fun fact: I have a beer cap collection 🍺
